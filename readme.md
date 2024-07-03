@@ -15,7 +15,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a data engineer with a passion for data visualization and business intelligence 」
+    「 I am a passionate data engineer with expertise in Azure, Airflow, Snowflake, and Spark, focusing on data visualization with Power BI to become a full-stack data engineer. 」
     <br>
     <br>
   </samp>
@@ -24,6 +24,9 @@
 <p align="center">
  <a href="https://linkedin.com/in/yourprofile" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="yourprofile"/>
+ </a>
+ <a href="https://github.com/ShubhamDalvi1999" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="ShubhamDalvi1999"/>
  </a>
 </p>
 <br />
@@ -34,8 +37,8 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy solving data problems <br/><br/>
- ❤️ &emsp; Passionate about data visualization and business intelligence<br/><br/>
+ ✌️ &emsp; I am dedicated to solving complex data problems using cutting-edge technologies. <br/><br/>
+ ❤️ &emsp; With a strong focus on data engineering and visualization, I am committed to delivering actionable insights and robust data solutions. <br/><br/>
  📧 &emsp; Reach me anytime: dshubhamp1999@gmail.com<br/><br/>
 
 </p>
@@ -53,6 +56,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 
 <br/>
 
