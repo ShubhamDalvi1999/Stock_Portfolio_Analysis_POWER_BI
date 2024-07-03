@@ -1,74 +1,42 @@
-<!--
 <h2 align="center">
-  Welcome to Al Siam World!
+  Welcome to My Power BI Project!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
--->
 
-<!--
-<p align="center">
-  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
-
- -->
-
-<a href="https://komarev.com/ghpvc/?username=alsiam">
-  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
-
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+[![wakatime](https://wakatime.com/badge/user/yourbadge.svg)](https://wakatime.com/@Mortal)
 
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Al Siam</a></b>
+                <b><a target="_blank" href="https://yourwebsite.com">Shubham Dalvi</a></b>
         </samp>
 </h3>
 
-
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 I am a data engineer with a passion for data visualization and business intelligence 」
     <br>
     <br>
   </samp>
 </p>
 
 <p align="center">
- <a href="https://alsiam.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+ <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="yourprofile"/>
  </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
- </a>
- <!-- <a href="https://dev.to/alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
- </a> -->
- <a href="https://twitter.com/_alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://instagram.com/_alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
- </a> 
- <a href="https://facebook.com/alsiam.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
-  </a> 
 </p>
 <br />
 
 <!-- About Section -->
- # About me
- 
+# About me
+
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
+ ✌️ &emsp; Enjoy solving data problems <br/><br/>
+ ❤️ &emsp; Passionate about data visualization and business intelligence<br/><br/>
+ 📧 &emsp; Reach me anytime: dshubhamp1999@gmail.com<br/><br/>
 
 </p>
 
@@ -76,62 +44,141 @@
 <br/>
 <br/>
 
-## Use To Code
+## Skills and Technologies
 
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-FFB900?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 <br/>
 
-## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/web-projects)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam)
+## Project Overview
 
-<p align="left">
-  <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
+This project focuses on utilizing Power BI for data visualization and business intelligence. The primary objective is to transform raw data into insightful visualizations that support decision-making processes. This project demonstrates advanced data visualization techniques and Power BI functionalities.
 
-<br/>
-<hr/>
-<br/>
+## Table of Contents
+- [Project Description](#project-description)
+- [Technologies Used](#technologies-used)
+- [Skills Demonstrated](#skills-demonstrated)
+- [Usage Instructions](#usage-instructions)
+- [Contributing](#contributing)
+- [License](#license)
 
-<p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
-  </a>
-</p>
+## Project Description
 
-<p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Al Siam's GitHub Contribution"/>
-  </a>
-</p>
+### Page 1: Unrealized Profit/Loss (P&L)
+#### Unrealized P&L
+- **Metric**: ₹261.02K (261,024.21) with a percentage of -4.59%.
+- **Significance**: Helps the investor understand the overall performance of their portfolio.
 
-<a> 
-    <a href="https://github.com/alsiam"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=alsiam&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/alsiam"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+#### Individual Stock Performance
+- **Table**: Lists individual stocks with codes (e.g., TCS, INFY), quantity, average unit price, current price, investment, current value, unrealized P&L in currency and percentage.
+- **Significance**: Identifying which stocks contribute positively or negatively to the portfolio.
 
+#### Portfolio Trend Over Time
+- **Line Graph**: Displays fluctuations in portfolio value from July 2021 to June 2024.
+- **Significance**: Assess long-term growth or decline patterns.
 
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=alsiam&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+#### Profit/Loss by Year and Quarter
+- **Bar Chart**: Shows profit and loss across different quarters for multiple years.
+- **Significance**: Understanding seasonal trends can guide investment decisions.
+
+#### Top Performing and Worst Performing Stocks
+- **Highlights**: Top 3 best-performing stocks (e.g., JIO, TCS, HDFC) and worst-performing stocks (e.g., ITC, M&M, CO).
+- **Significance**: Helps the investor rebalance their portfolio.
+
+### Page 2: Realized P&L Data Dashboard
+#### Total Realized P&L
+- **Card**: Displays a total realized P&L value of -29.10K.
+- **Significance**: Represents the net profit or loss over the specified time period.
+
+#### Stock-Specific Realized P&L
+- **Table**: Lists various stocks with their corresponding sum of realized P&L values (e.g., ADANIPORTS: 13,044.35, CIPLA: -17,154).
+- **Significance**: Helps in portfolio management and decision-making.
+
+#### Realized P&L Trends Over Time
+- **Line Chart**: Shows fluctuations in realized P&L from January 2021 through August 2023.
+- **Significance**: Identifies profitable periods and potential areas for improvement.
+
+#### Quarterly P&L Breakdown
+- **Bar Graph**: Provides a quarterly breakdown of profit and loss.
+- **Significance**: Reveals seasonal patterns and performance variations across different quarters.
+
+#### Worst Performing Stocks
+- **Horizontal Bar Graph**: Highlights the top 3 worst-performing stocks (e.g., CIPLA, DRREDDY, DELTACORP).
+- **Significance**: Allows for targeted adjustments or divestment.
+
+### Page 3: Stock Wise Realized Data Dashboard
+#### Realized P&L by Year
+- **Metric**: Displays a negative value of -1,578.4.
+- **Significance**: Represents the net profit or loss for the specified year.
+
+#### Stock Breakdown
+- **Chart**: Includes two stocks (HD and BA LT).
+  - **HD**: Average buy price: 1.514K.
+  - **BA LT**: Realized P&L KPI: -3.2K and -1.56K.
+- **Significance**: Helps in making informed decisions about holding, selling, or adjusting positions.
+
+#### Line Chart - Stock Trends
+- **Trends**: Shows trends for HD BA LT across different years.
+- **Significance**: Identifies patterns and potential opportunities or risks.
+
+#### Donut Chart
+- **Segment**: Filled in dark blue labeled as “-13.4% (2020)”.
+- **Significance**: Represents a portion of the overall portfolio’s realized P&L for 2020.
+
+### Page 4: Stock Wise Utilized Data Dashboard
+#### Unrealized P&L KPI
+- **Bar Chart**: Displays an “Unrealized P&L KPI” with a value of 15.36K.
+- **Significance**: Indicates the potential profit or loss based on current market prices.
+
+#### Stock Buying Trend
+- **Pie Chart**: Represents the stock buying trend for “TILCO”.
+  - **Segments**: 2022: 4.82K (27.47%), 2021: 11.80K (72.53%).
+- **Significance**: Shows more stock was bought in 2021 compared to 2022.
+
+#### Stock Value Trend
+- **Line Graph**: Depicts an upward trend in stock value from July to December over two years.
+- **Significance**: Investors can track stock value changes and make informed decisions based on historical trends.
+
+#### Additional Metrics
+- **Unrealized P&L**: 15.40K
+- **Average Buy Price**: 2.427K
+- **Significance**: Provides insights for assessing the performance of “TILCO” and making strategic investment choices.
+
+### Page 5: Nifty 50 Vs Portfolio Performance Comparison
+#### Nifty 50
+- **Green Line**: Represents the performance of the Nifty 50 index.
+- **Significance**: Indicates overall market growth.
+
+#### Portfolio
+- **Blue Line**: Represents the performance of an individual portfolio with higher fluctuations.
+- **Significance**: Portfolio outperformed the index, suggesting successful stock selection or active management.
+
+#### Comparison
+- **Analysis**: Higher volatility may indicate active trading or exposure to specific sectors.
+- **Significance**: Provides insights into relative performance and helps evaluate investment strategies.
+
+## Technologies Used
+- **Power BI**: For creating interactive data visualizations.
+- **SQL**: For data querying and transformation.
+- **Excel**: For data manipulation and preparation.
+- **Python**: For advanced data transformation and analysis.
+- **Azure**: For cloud-based data storage and processing.
+
+## Skills Demonstrated
+- **Data Visualization**: Creating insightful and interactive visualizations.
+- **Business Intelligence**: Developing dashboards that support decision-making processes.
+- **Data Transformation**: Cleaning and transforming data for analysis.
+- **DAX**: Writing Data Analysis Expressions for complex calculations.
+- **Performance Optimization**: Enhancing the performance of dashboards and reports.
+
+## Usage Instructions
+1. Ensure Power BI Desktop is installed.
+2. Download the dataset and load it into Power BI.
+3. Follow the data transformation steps in Power Query.
+4.
