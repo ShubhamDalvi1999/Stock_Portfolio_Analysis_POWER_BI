@@ -3,8 +3,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
-[![wakatime](https://wakatime.com/badge/user/yourbadge.svg)](https://wakatime.com/@Mortal)
-
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
@@ -12,12 +10,16 @@
         </samp>
 </h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Analyst+%40+Accenture;3+years+of+IT+experience;+Passionate+Data+Engineer;Spark+%7C+Azure+%7C+Power+BI+%7C+Snowflake+%7C+Airflow)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Analyst+%40+Accenture;3+years+of+IT+experience;+Passionate+Data+Engineer;Spark+%7C+Azure+%7C+Power+BI+%7C+Snowflake+%7C+Airflow" alt="Typing SVG">
+  </a>
+</div>
 
 <p align="center"> 
   <samp>
     <br>
-    「 I am a passionate data engineer with expertise in Azure, Airflow, Snowflake, and Spark, focusing on data visualization with Power BI to become a full-stack data engineer. 」
+    「 I am a passionate data engineer with experience in Azure, Airflow, Snowflake, Spark and Power BI. 」
     <br>
     <br>
   </samp>
