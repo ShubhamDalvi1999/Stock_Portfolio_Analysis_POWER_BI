@@ -181,4 +181,11 @@ This project focuses on utilizing Power BI for data visualization and business i
 1. Ensure Power BI Desktop is installed.
 2. Download the dataset and load it into Power BI.
 3. Follow the data transformation steps in Power Query.
-4.
+4. Create the visualizations as per the provided examples.
+5. Publish the report to Power BI Service and share it with your team.
+
+## Contributing
+Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure your code follows the project guidelines and includes relevant tests.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
