@@ -75,6 +75,9 @@ This project focuses on utilizing Power BI for data visualization and business i
 ## Project Description
 
 ### Page 1: Unrealized Profit/Loss (P&L)
+
+![image](https://github.com/ShubhamDalvi1999/Stock_Portfolio_Analysis_POWER_BI/assets/54521835/97ecbffc-892a-492a-badd-4818a836a95f)
+
 #### Unrealized P&L
 - **Metric**: ₹261.02K (261,024.21) with a percentage of -4.59%.
 - **Significance**: Helps the investor understand the overall performance of their portfolio.
@@ -96,6 +99,9 @@ This project focuses on utilizing Power BI for data visualization and business i
 - **Significance**: Helps the investor rebalance their portfolio.
 
 ### Page 2: Realized P&L Data Dashboard
+
+![image](https://github.com/ShubhamDalvi1999/Stock_Portfolio_Analysis_POWER_BI/assets/54521835/fab95bec-22b1-43e7-b738-1e9e26d31231)
+
 #### Total Realized P&L
 - **Card**: Displays a total realized P&L value of -29.10K.
 - **Significance**: Represents the net profit or loss over the specified time period.
@@ -117,6 +123,9 @@ This project focuses on utilizing Power BI for data visualization and business i
 - **Significance**: Allows for targeted adjustments or divestment.
 
 ### Page 3: Stock Wise Realized Data Dashboard
+
+![image](https://github.com/ShubhamDalvi1999/Stock_Portfolio_Analysis_POWER_BI/assets/54521835/44f73e60-139d-435b-ba7a-3a1c5e8f8fb3)
+
 #### Realized P&L by Year
 - **Metric**: Displays a negative value of -1,578.4.
 - **Significance**: Represents the net profit or loss for the specified year.
@@ -136,6 +145,9 @@ This project focuses on utilizing Power BI for data visualization and business i
 - **Significance**: Represents a portion of the overall portfolio’s realized P&L for 2020.
 
 ### Page 4: Stock Wise Utilized Data Dashboard
+
+![image](https://github.com/ShubhamDalvi1999/Stock_Portfolio_Analysis_POWER_BI/assets/54521835/d86a47be-53d8-4a17-ae42-32817f359d25)
+
 #### Unrealized P&L KPI
 - **Bar Chart**: Displays an “Unrealized P&L KPI” with a value of 15.36K.
 - **Significance**: Indicates the potential profit or loss based on current market prices.
@@ -155,6 +167,10 @@ This project focuses on utilizing Power BI for data visualization and business i
 - **Significance**: Provides insights for assessing the performance of “TILCO” and making strategic investment choices.
 
 ### Page 5: Nifty 50 Vs Portfolio Performance Comparison
+
+![image](https://github.com/ShubhamDalvi1999/Stock_Portfolio_Analysis_POWER_BI/assets/54521835/63c7a7ea-6549-425f-9365-c694937ed0d1)
+
+
 #### Nifty 50
 - **Green Line**: Represents the performance of the Nifty 50 index.
 - **Significance**: Indicates overall market growth.
