@@ -12,6 +12,8 @@
         </samp>
 </h3>
 
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=I+am+a+passionate+data+engineer+with+3+years+of+IT+experience.;Expert+in+Azure%2C+Airflow%2C+Snowflake%2C+and+Spark.;Focusing+on+data+visualization+with+Power+BI.;Aiming+to+be+a+full-stack+data+engineer.;Currently+working+at+Accenture.)
+
 <p align="center"> 
   <samp>
     <br>
