@@ -12,7 +12,7 @@
         </samp>
 </h3>
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=I+am+a+passionate+data+engineer+with+3+years+of+IT+experience.;Expert+in+Azure%2C+Airflow%2C+Snowflake%2C+and+Spark.;Focusing+on+data+visualization+with+Power+BI.;Aiming+to+be+a+full-stack+data+engineer.;Currently+working+at+Accenture.)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Analyst+%40+Accenture;3+years+of+IT+experience;+Passionate+Data+Engineer;Spark+%7C+Azure+%7C+Power+BI+%7C+Snowflake+%7C+Airflow)](https://git.io/typing-svg)
 
 <p align="center"> 
   <samp>
@@ -40,7 +40,7 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  ✌️ &emsp; I am dedicated to solving complex data problems using cutting-edge technologies. <br/><br/>
- ❤️ &emsp; With a strong focus on data engineering and visualization, I am committed to delivering actionable insights and robust data solutions. <br/><br/>
+ ❤️ &emsp; In this project I focus on data visualization,using Power BI and it's cool features and DAX queries. <br/><br/>
  📧 &emsp; Reach me anytime: dshubhamp1999@gmail.com<br/><br/>
 
 </p>
@@ -49,18 +49,12 @@
 <br/>
 <br/>
 
-## Skills and Technologies
+## Skills and Technologies used in ths project
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-FFB900?style=for-the-badge&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 
 <br/>
 
