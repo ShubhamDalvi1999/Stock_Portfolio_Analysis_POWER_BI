@@ -43,7 +43,7 @@
   
  ✌️ &emsp; I am dedicated to solving complex data problems using cutting-edge technologies. <br/><br/>
  ❤️ &emsp; In this project I focus on data visualization,using Power BI and it's cool features and DAX queries. <br/><br/>
- 📧 &emsp; Reach me anytime: dshubhamp1999@gmail.com<br/><br/>
+ 📧 &emsp; Reach me : dshubhamp1999@gmail.com<br/><br/>
 
 </p>
 
