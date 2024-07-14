@@ -19,7 +19,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a passionate data engineer with experience in Azure, Airflow, Snowflake, Spark and Power BI. 」
+    「 I am a data engineer with a passion for big data , distributed computing and data visualization 」
     <br>
     <br>
   </samp>
