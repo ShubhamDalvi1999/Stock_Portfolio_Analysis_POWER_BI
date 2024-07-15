@@ -41,12 +41,11 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; I am dedicated to solving complex data problems using cutting-edge technologies. <br/><br/>
- ❤️ &emsp; In this project I focus on data visualization,using Power BI and it's cool features and DAX queries. <br/><br/>
+ ✌️ &emsp; I love solving complex data problems using cutting-edge technologies. <br/><br/>
+ ❤️ &emsp;  <br/>Passionate about big data technologies, distributed systems and data visualizations<br/>
  📧 &emsp; Reach me : dshubhamp1999@gmail.com<br/><br/>
 
 </p>
-
 <br/>
 <br/>
 <br/>
