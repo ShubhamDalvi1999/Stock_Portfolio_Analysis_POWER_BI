@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
- <a href="https://linkedin.com/in/yourprofile" target="_blank">
+ <a href="https://www.linkedin.com/in/shubham-dalvi-21603316b" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="yourprofile"/>
  </a>
  <a href="https://github.com/ShubhamDalvi1999" target="_blank">
